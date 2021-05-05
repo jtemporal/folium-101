@@ -1,0 +1,23 @@
+city,latitude,longitude,lived,visited
+Olinda,-7.9981267,-34.9082027,yes,yes
+Recife,-8.0522,-34.9286,yes,yes
+Miami,25.7617,-80.1918,no,yes
+New York,40.7128,-74.006,yes,yes
+Graz,47.0707,15.4395,no,yes
+Taipei,25.033,121.5654,no,yes
+São Paulo,-23.5505,-46.6333,no,yes
+Osasco,-23.5372,-46.7962,yes,yes
+Ribeirão Preto,-21.1704,-47.8103,yes,yes
+Florianópolis,-27.5986,-48.5187,no,yes
+Campinas,-22.9099,-47.0626,no,yes
+Salvador,-12.9777,-38.5016,yes,yes
+Maceió,-9.6498,-35.7089,no,yes
+Belo Horizonte,-19.9167,-43.9345,no,yes
+São Carlos,-22.0087,-47.8909,no,yes
+Rio de Janeiro,-22.9068,-43.1729,yes,yes
+Toronto,43.6532,-79.3832,no,no
+Dublin,53.3498,-6.2603,no,no
+Amsterdam,52.3676,4.9041,no,no
+Sydney,-33.8688,151.2093,no,no
+Orlando,28.5383,-81.3792,no,yes
+Brasília,-15.8267,-47.9218,no,yes
