@@ -1,0 +1,4 @@
+folium==0.12.1
+jupyter==1.0.0
+notebook==6.3.0 
+pandas==1.2.4
